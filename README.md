@@ -1,8 +1,11 @@
 Professor-Titular
-Apresentação da Planilha de Apoio ao Planejamento de Pontuação para Promoção à Classe E
-Este material disponibiliza uma planilha automatizada desenvolvida com base na Resolução CEP nº 543/2014, da Universidade Federal Fluminense (UFF), que estabelece os critérios e procedimentos para a promoção funcional à Classe E, com a denominação de Professor Titular, na Carreira do Magistério Superior.
 
-Finalidade da Planilha A planilha foi criada como um material de apoio para auxiliar os docentes no planejamento e organização de seus memoriais, fornecendo uma estimativa da pontuação com base nas atividades acadêmicas realizadas. Entre as funcionalidades da planilha, destacam-se:
+Apresentação da Planilha de Apoio ao Planejamento de Pontuação para Promoção à Classe E
+
+Planilha automatizada desenvolvida com base na Resolução CEP nº 543/2014, da Universidade Federal Fluminense (UFF), que estabelece os critérios e procedimentos para a promoção funcional à Classe E, com a denominação de Professor Titular, na Carreira do Magistério Superior.
+
+Finalidade da Planilha
+A planilha foi criada como um material de apoio para auxiliar os docentes no planejamento e organização de seus memoriais, fornecendo uma estimativa da pontuação com base nas atividades acadêmicas realizadas. Entre as funcionalidades da planilha, destacam-se:
 
 Cálculo automatizado da pontuação considerando os critérios de carga horária de ensino, pesquisa, extensão e gestão.
 Aplicação dos limites mínimos e máximos de pontuação por grupo de atividades, conforme estipulado na resolução.
@@ -36,8 +39,9 @@ Ajustes: O docente pode adicionar ou remover itens nas planilhas dos Grupos A, B
 Resultados Finais: Quando a pontuação total e as proporções entre os grupos forem ajustadas corretamente, o documento estará pronto para ser utilizado como referência no planejamento do memorial.
 
 Observação Importante A planilha é uma ferramenta de apoio ao planejamento, e a pontuação gerada é uma estimativa. Cabe ao docente garantir que os dados inseridos sejam precisos e devidamente comprovados na documentação oficial do memorial.
-*** Instruções para Uso do Documento Excel:
 
+*** Instruções para Uso do Documento Excel:
 O material disponibilizado é um único documento Excel, contendo múltiplas planilhas interligadas, projetado para cálculos automatizados. Para garantir seu correto funcionamento, siga estas etapas:
 
-Faça o download do documento para o seu computador. Abra o arquivo no programa Microsoft Excel (recomendado para preservar as fórmulas e funcionalidades). Observação: O uso de outros softwares ou editores de planilhas pode comprometer as automatizações e a precisão dos cálculos.
+Faça o download do documento para o seu computador. Abra o arquivo no programa Microsoft Excel (recomendado para preservar as fórmulas e funcionalidades). 
+Observação: O uso de outros softwares ou editores de planilhas pode comprometer as automatizações e a precisão dos cálculos.
