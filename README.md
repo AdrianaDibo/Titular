@@ -5,6 +5,7 @@ Apresentação da Planilha de Apoio ao Planejamento de Pontuação para Promoç�
 Planilha automatizada desenvolvida com base na Resolução CEP nº 543/2014, da Universidade Federal Fluminense (UFF), que estabelece os critérios e procedimentos para a promoção funcional à Classe E, com a denominação de Professor Titular, na Carreira do Magistério Superior.
 
 Finalidade da Planilha
+
 A planilha foi criada como um material de apoio para auxiliar os docentes no planejamento e organização de seus memoriais, fornecendo uma estimativa da pontuação com base nas atividades acadêmicas realizadas. Entre as funcionalidades da planilha, destacam-se:
 
 Cálculo automatizado da pontuação considerando os critérios de carga horária de ensino, pesquisa, extensão e gestão.
